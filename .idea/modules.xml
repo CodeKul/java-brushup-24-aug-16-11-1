@@ -5,9 +5,15 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/24-aug-2016-11-1.iml" filepath="$PROJECT_DIR$/.idea/modules/24-aug-2016-11-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/24-aug-2016-11-1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/24-aug-2016-11-1_main.iml" group="24-aug-2016-11-1" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/24-aug-2016-11-1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/24-aug-2016-11-1_test.iml" group="24-aug-2016-11-1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling.iml" filepath="$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling.iml" group="exception-handling" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling_main.iml" filepath="$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling_main.iml" group="exception-handling" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling_test.iml" filepath="$PROJECT_DIR$/.idea/modules/exception-handling/exception-handling_test.iml" group="exception-handling" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lang-fundamentals/lang-fundamentals.iml" filepath="$PROJECT_DIR$/.idea/modules/lang-fundamentals/lang-fundamentals.iml" group="lang-fundamentals" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lang-fundamentals/lang-fundamentals_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lang-fundamentals/lang-fundamentals_main.iml" group="lang-fundamentals" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lang-fundamentals/lang-fundamentals_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lang-fundamentals/lang-fundamentals_test.iml" group="lang-fundamentals" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oops/oops.iml" filepath="$PROJECT_DIR$/.idea/modules/oops/oops.iml" group="oops" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oops/oops_main.iml" filepath="$PROJECT_DIR$/.idea/modules/oops/oops_main.iml" group="oops" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oops/oops_test.iml" filepath="$PROJECT_DIR$/.idea/modules/oops/oops_test.iml" group="oops" />
     </modules>
   </component>
 </project>

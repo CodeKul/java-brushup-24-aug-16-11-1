@@ -10,7 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/exception-handling" />
             <option value="$PROJECT_DIR$/lang-fundamentals" />
+            <option value="$PROJECT_DIR$/oops" />
           </set>
         </option>
       </GradleProjectSettings>

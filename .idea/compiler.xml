@@ -21,8 +21,12 @@
     <bytecodeTargetLevel>
       <module name="24-aug-2016-11-1_main" target="1.8" />
       <module name="24-aug-2016-11-1_test" target="1.8" />
+      <module name="exception-handling_main" target="1.8" />
+      <module name="exception-handling_test" target="1.8" />
       <module name="lang-fundamentals_main" target="1.8" />
       <module name="lang-fundamentals_test" target="1.8" />
+      <module name="oops_main" target="1.8" />
+      <module name="oops_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
