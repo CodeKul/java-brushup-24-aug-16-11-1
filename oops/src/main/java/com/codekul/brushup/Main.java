@@ -2,6 +2,8 @@ package com.codekul.brushup;
 
 import com.codekul.brushup.abstractclasses.Animal;
 import com.codekul.brushup.abstractclasses.Lion;
+import com.codekul.brushup.collections.MyCollection;
+import com.codekul.brushup.generics.Any;
 import com.codekul.brushup.innerclasses.Outer;
 import com.codekul.brushup.interfaces.Bike;
 import com.codekul.brushup.interfaces.GpsListener;
@@ -13,7 +15,26 @@ import com.codekul.brushup.interfaces.Human;
 public class Main {
 
     public static void main(String[] args) {
-        abstractClass();
+        collections();
+    }
+
+    private static void collections(){
+
+        MyCollection collection = new MyCollection();
+        //collection.basics();
+        //collection.list();
+        collection.set();
+    }
+
+    private static void generics(){
+
+        Any<String> any = new Any<>();
+        String str = any.getAnyType();
+        any.setAnyType("");
+
+        Any<Integer> anyInt = new Any<>();
+        int a = anyInt.getAnyType();
+        anyInt.setAnyType(12);
     }
 
     private static void abstractClass(){
